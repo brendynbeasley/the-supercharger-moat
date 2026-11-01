@@ -1,0 +1,9 @@
+name,network,zip,open_date,dc_ports,connectors,access_days_time
+"Ellensburg, WA - Tesla Supercharger",Tesla,98926,2013-12-23,5,TESLA,24 hours daily. Open to Teslas only.
+"Taco Bell Ellensburg (Ellensburg, WA)",Electrify America,98926,2020-12-18,4,J1772COMBO,24 hours daily
+"Ellensburg, WA - Canyon Road - Tesla Supercharger",Tesla,98926,2022-04-28,12,TESLA,24 hours daily. NACS partner enabled.
+Flying J 1195,eVgo Network,98926,2023-11-23,8,J1772COMBO,24 hours daily
+"Ellensburg, WA",RIVIAN_ADVENTURE,98926,2026-01-30,8,J1772COMBO TESLA,24 hours daily
+Fred Meyer - Tesla Supercharger,Tesla,98926,2026-03-20,16,TESLA,24 hours daily
+ESD ELLENSBURG DCFC,ChargePoint Network,98926,2026-06-18,1,J1772COMBO TESLA,24 hours daily
+"Ellensburg, WA Rechargery Relay @ Circle K - Canyon Road",IONNA,98926,2026-09-05,6,J1772COMBO TESLA,24 hours daily

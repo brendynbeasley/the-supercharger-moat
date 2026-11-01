@@ -1,0 +1,16 @@
+# Large raw download, fetched by src/supercharger_moat.py (31 MB); the reduced file in data/processed/ is committed
+data/raw/afdc_elec_all_*.csv
+data/raw/*.part
+
+# Keys (none are needed; the AFDC call uses the public DEMO_KEY)
+*.key
+api_key*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# System
+.DS_Store

@@ -1,0 +1,2 @@
+test,n,clusters,coef,se,p,spearman_rho_networks,spearman_p,networks_in_rho
+non-Tesla station has NACS connector ~ log network ports + open-year FE,12615,75,-0.005882648202537876,0.013281470506117301,0.6578225502657845,0.15163421871109622,0.3995798169942502,33
